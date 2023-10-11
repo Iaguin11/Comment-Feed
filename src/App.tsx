@@ -38,7 +38,7 @@ const posts: PostType[] = [
       {type: 'paragraph', content: ' Finalmente concluí o meu portfólio... Nesses dias desenvolvendo este projeto, pude por em prática meus conhecimentos recém adquiridos com o Pré-processador "Sass". ' },
       {type: 'link', content: 'Deploy: http://mth-dev.is-best.net/?i=2'},
     ],
-    publishedAt: new Date('2023-10-06 21:00:00'),
+    publishedAt: new Date('2023-10-07 21:00:00'),
   },
 
 ]
